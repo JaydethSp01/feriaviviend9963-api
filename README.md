@@ -1,2 +1,3 @@
-# feriaviviend9963-api
-ScrumDev AI backend (feriaviviend9963-api)
+# TPL Salud Cita Backend
+
+Este es el backend del sistema de gestión de citas médicas para la clínica.
